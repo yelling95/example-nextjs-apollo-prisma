@@ -1,5 +1,0 @@
-BETER_DB_USER = beter
-BETER_DB_PASSWORD = beterthan2020!!
-BETER_DB_HOST = localhost
-BETER_DB_PORT = 5432
-BETER_DB = beter
