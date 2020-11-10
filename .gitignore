@@ -25,10 +25,18 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
+.env
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
+.env.local.js
 
 # vercel
 .vercel
+
+# prisma
+/prisma/migrations
+
+# generated schema
+/src/generated
